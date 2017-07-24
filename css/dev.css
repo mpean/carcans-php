@@ -1,0 +1,306 @@
+@CHARSET "ISO-8859-1";
+body {
+	background-color: white;
+	margin: 0px 0px 0px 0px;
+	background-image:url();
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+	background-position:left top;
+}
+
+.titreOnglet {
+	font-family: franklin gothic medium cond, arial, serif;
+	font-size: 120%;
+	color: #ffa500;
+	background-color: transparent;
+	text-decoration: none list-style-type : none;
+}
+
+.titrebody {
+	margin: 0px 0px 0px 0px;
+	background-repeat: no-repeat;
+	background-image: url();
+}
+
+.menubody {
+	margin: 0px 0px 0px 0px;
+	background-color: transparent;
+}
+
+.liinfo {
+	font-family: arial, serif;
+	font-size: 80%;
+	font-weight: bold;
+	text-decoration: none;
+	color: red;
+	background-color: transparent;
+	text-align: left;
+	border-style: ridge;
+	border-width: 0px;
+	border-color: red;
+	padding: 0px;
+}
+
+h1 {
+	font-family: segoe script, arial, serif;
+	font-size: 150%;
+	color: #fef900;
+	background-color: transparent;
+	text-align: left;
+}
+
+h2 {
+	font-family: arial, serif;
+	font-size: 100%;
+	color: #617783;
+	background-color: transparent;
+	text-align: left;
+}
+
+h3 {
+	font-family: segoe script, arial, serif;
+	font-size: 110%;
+	color: #617783;
+	background-color: transparent;
+	text-align: left;
+}
+
+h4 {
+	font-family: segoe script, arial, serif;
+	font-size: 100%;
+	color:orange;
+	background-color: transparent;
+	text-align: left;
+}
+
+.h3Eteint {
+	font-family: arial, serif;
+	font-size: 80%;
+	color: silver;
+	background-color: transparent;
+	text-align: left;
+}
+
+p {
+	font-family: MAIANDRA gd, arial, serif;
+	font-size: 90%;
+	#color: #996699;
+	color: indigo;
+	background-color: transparent;
+	text-align: left;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+li {
+	font-family: arial, serif;
+	font-size: 100%;
+	color: orange;
+	background-color: transparent;
+	text-align: left;
+	margin-left: 0px;
+	margin-right: 0px;
+	list-style-type: none;
+}
+
+img {
+	border: 0px;
+	background-color: transparent;
+	margin-left: 1px;
+	background-image: url();
+}
+
+a:link {
+	font-family: franklin gothic medium cond, arial, serif;
+	font-size: 120%;
+	color: #3333FF;
+	background-color: transparent;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+a:visited {
+	font-family: franklin gothic medium cond, arial, serif;
+	font-size: 120%;
+	color: #333366;
+	background-color: transparent;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+a:hover {
+	font-family: franklin gothic medium cond, arial, serif;
+	font-size: 120%;
+	color: #ffa500;
+	background-color: transparent;
+	text-decoration: none list-style-type : none;
+}
+
+a:active {
+	font-family: franklin gothic medium cond, arial, serif;
+	font-size: 120%;
+	color: orange;
+	background-color: transparent;
+	text-decoration: none;
+	list-style-type: none;
+}
+
+.limenu {
+	font-family: franklin gothic medium cond, arial, serif;
+	font-size: 100%;
+	font-weight: normal;
+	color: white;
+	background-color: transparent;
+	text-decoration: none;	
+}
+
+.limenu a:link {
+	font-family: franklin gothic medium cond, arial, serif;
+	font-size: 100%;
+	font-weight: normal;
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+.limenu a:visited {
+	font-family: franklin gothic medium cond, arial, serif;
+	font-size: 100%;
+	font-weight: normal;
+	color: white;
+	background-color: transparent;
+	text-decoration: none;
+}
+
+.limenu a:hover {
+	font-family: franklin gothic medium cond, arial, serif;
+	font-size: 100%;
+	font-weight: normal;
+	color: #ffa500;
+	background-color: transparent;
+	text-decoration: none;
+	padding-left: 0px;
+	list-style-image: none;	
+}
+
+.limenu a:active {
+	font-family: franklin gothic medium cond, arial, serif;
+	font-size: 100%;
+	font-weight: normal;
+	color: gold;
+	background-color: transparent;
+	text-decoration: none;
+	padding-left: 0px;
+	list-style-image: none;
+}
+
+table {
+	border-color: transparent;
+	border-style: solid;
+	border-width: 1px;
+}
+
+td {
+	font-family: arial, serif;
+	font-size: 80%;
+	color: black;
+	text-align: center;
+	background-color: transparent;
+	border-color: transparent;
+	border-style: solid;
+	border-width: 1px;
+}
+
+#en-tete {
+	text-align: left;
+	visibility: hidden;
+	position: relative;
+	height: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	padding-top: 0px;
+	background-color: #0B378E
+}
+
+.menu {
+	text-align: left;
+	width: 20%;
+	height: 100%;
+	float: left;
+	border-style: solid;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: #5595bb;
+}
+
+.page {
+	padding-left: 0%;
+	width: 80%;
+	float: left;
+	border-style: solid;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: white;
+}
+
+.col-gauche {
+	text-align:left;
+	width: 49%;
+	float: left;
+	border-style: solid;
+	border-width: 0px;
+	border-color: transparent;
+}
+
+.col-droite {
+	width: 49%;
+	text-align:left;
+	float: left;
+	border-style: solid;
+	border-width: 0px;
+	border-color: transparent;
+}
+
+.chalet_titre {
+	background-color: #F5F5F5;
+/*	height: 20%;*/
+}
+
+.li-onglets {
+	text-align: left;
+/*	width: 100%;*/
+/*	height: 40px;*/
+/*	padding-top: 0px;*/
+	float: top;
+	border-style: solid;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: black;
+/*	background-image:url(top_grad.gif);*/
+/*	background-repeat: repeat-x;*/
+}
+
+.col-shadow {
+	text-align: left;
+	width: 3px;
+	height: 100%;
+	float: left;
+	padding-right:10px;
+	border-style: solid;
+	border-width: 0px;
+	border-color: transparent;
+	background-image:url(tray_shadow.gif);
+	background-repeat: repeat-y;
+}
+
+.box {
+	width: 100%;
+	float: left;
+	margin-right: 0%;
+	padding-left: 0px;
+	padding-top: 0px;
+	background-repeat: no-repeat;
+	border-style: solid;
+	border-width: 0px;
+	border-color: transparent;
+}

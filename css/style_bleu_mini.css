@@ -1,0 +1,61 @@
+@CHARSET "ISO-8859-1";body{background-color:white;margin:0px 0px 0px 0px;background-image:url();background-repeat:no-repeat;background-attachment:fixed;background-position:left top;height:100%;}
+#zoneParagraphe{background-color:transparent;width:100%;padding-top:20px;text-align:left;border-bottom-style:none;border-top-style:none;border-bottom-color:grey;border-top-color:grey;border-bottom-width:1px;border-top-width:1px;}
+.caseOnglet{float:left;text-align:center;padding-right:10px;padding-bottom:5px;height:20px;}
+#zoneOnglet{background-color:transparent;width:100%;text-align:center;}
+.titreOnglet{font-family:franklin gothic medium cond, arial, serif;font-size:90%;text-align:center;color:#ffa500;background-color:transparent;text-decoration:none;list-style-type:none;margin-left:0px;margin-right:0px;border-bottom-color:#3333FF;border-bottom-style:solid;border-bottom-width:2px;}
+.accesOnglet:LINK{font-family:franklin gothic medium cond, arial, serif;font-size:90%;color:#3333FF;background-color:transparent;text-decoration:none;list-style-type:none;}
+.accesOnglet:visited{font-family:franklin gothic medium cond, arial, serif;font-size:90%;color:#333366;background-color:transparent;text-decoration:none;list-style-type:none;}
+.accesOnglet:hover{font-family:franklin gothic medium cond, arial, serif;font-size:90%;color:#ffa500;background-color:transparent;text-decoration:none list-style-type:none;}
+.accesOnglet:active{font-family:franklin gothic medium cond, arial, serif;font-size:90%;color:orange;background-color:transparent;text-decoration:none;list-style-type:none;}
+.titrebody{margin:0px 0px 0px 0px;background-repeat:no-repeat;background-image:url();}
+.menubody{margin:0px 0px 0px 0px;background-color:transparent;}
+.liinfo{font-family:arial, serif;font-size:80%;font-weight:bold;text-decoration:none;color:red;background-color:transparent;text-align:left;border-style:ridge;border-width:0px;border-color:red;padding:0px;}
+h1{font-family:segoe script, arial, serif;font-size:150%;color:#fef900;background-color:transparent;text-align:left;}
+h2{font-family:arial, serif;font-size:100%;color:#617783;background-color:transparent;text-align:left;}
+h3{font-family:segoe script, arial, serif;font-size:110%;color:#617783;background-color:transparent;text-align:left;margin-top:10px;}
+h4{font-family:segoe script, arial, serif;font-size:100%;color:orange;background-color:transparent;text-align:left;}
+.h3Eteint{font-family:arial, serif;font-size:80%;color:silver;background-color:transparent;text-align:left;}
+p{font-family:arial, serif;font-family:arial, serif;font-size:80%;color:indigo;background-color:transparent;}
+li{font-family:arial, serif;font-size:100%;color:orange;background-color:transparent;text-align:left;margin-left:0px;margin-right:0px;list-style-type:none;}
+.img_diaporama{border-bottom-color:grey;border-bottom-width:0px;border-bottom-style:solid;border-right-color:lightgrey;border-right-width:1px;border-right-style:solid;margin-top:2px;}
+a:link{font-family:franklin gothic medium cond, arial, serif;font-size:90%;color:#3333FF;background-color:transparent;text-decoration:none;list-style-type:none;}
+a:visited{font-family:franklin gothic medium cond, arial, serif;font-size:90%;color:#333366;background-color:transparent;text-decoration:none;list-style-type:none;}
+a:hover{font-family:franklin gothic medium cond, arial, serif;font-size:90%;color:#ffa500;background-color:transparent;text-decoration:none list-style-type:none;}
+a:active{font-family:franklin gothic medium cond, arial, serif;font-size:90%;color:orange;background-color:transparent;text-decoration:none;list-style-type:none;}
+.limenu{font-family:franklin gothic medium cond, arial, serif;font-size:100%;font-weight:normal;color:white;background-color:transparent;text-decoration:none;}
+.limenu a:link{font-family:franklin gothic medium cond, arial, serif;font-size:100%;font-weight:normal;color:white;background-color:transparent;text-decoration:none;}
+.limenu a:visited{font-family:franklin gothic medium cond, arial, serif;font-size:100%;font-weight:normal;color:white;background-color:transparent;text-decoration:none;}
+.limenu a:hover{font-family:franklin gothic medium cond, arial, serif;font-size:100%;font-weight:normal;color:#ffa500;background-color:transparent;text-decoration:none;padding-left:0px;list-style-image:none;}
+.limenu a:active{font-family:franklin gothic medium cond, arial, serif;font-size:100%;font-weight:normal;color:gold;background-color:transparent;text-decoration:none;padding-left:0px;list-style-image:none;}
+table{border-color:transparent;border-style:solid;border-width:1px;}
+td{font-family:arial, serif;font-size:80%;color:black;text-align:center;background-color:transparent;border-color:transparent;border-style:solid;border-width:1px;}
+#en-tete{text-align:left;position:relative;height:50px;padding-left:20px;padding-bottom:0px;padding-top:20px;background-color:transparent;}
+#menu{text-align:left;width:250px;height:100%;float:left;border-style:solid;border-width:0px;border-color:transparent;background-color:white;background-image:url(fond_ciel.png);background-repeat:no-repeat;}
+#page{padding-left:0%;width:80%;height:100%;float:left;border-style:solid;border-width:0px;border-color:transparent;background-color:white;background-image:url(top_grad.gif);background-repeat:repeat-x;}
+.zoneImages{text-align:center;float:left;border-style:solid;border-width:0px;border-color:transparent;padding-left:15px;}
+.col-gauche{text-align:center;width:49%;float:left;border-style:solid;border-width:0px;border-color:transparent;}
+.col-droite{width:49%;text-align:center;float:left;border-style:solid;border-width:0px;border-color:transparent;}
+.li-onglets{text-align:left;width:100%;height:40px;padding-top:1px;float:top;border-style:solid;border-width:0px;border-color:transparent;}
+#col-shadow{text-align:left;width:3px;height:100%;float:left;padding-right:10px;border-style:solid;border-width:0px;border-color:transparent;background-image:url(tray_shadow.gif);background-repeat:repeat-y;}
+.box{width:100%;float:left;margin-right:0%;padding-left:0px;padding-top:0px;background-repeat:no-repeat;border-style:solid;border-width:0px;border-color:transparent;}
+#lightbox{position:absolute;left:0;width:100%;z-index:100;text-align:center;line-height:0;}
+#lightbox img{width:auto;height:auto;}
+#lightbox a img{border:none;}
+#outerImageContainer{position:relative;background-color:#fff;width:250px;height:250px;margin:0 auto;}
+#imageContainer{padding:10px;}
+#loading{position:absolute;top:40%;left:0%;height:25%;width:100%;text-align:center;line-height:0;}
+#hoverNav{position:absolute;top:0;left:0;height:100%;width:100%;z-index:10;}
+#imageContainer>#hoverNav{left:0;}
+#hoverNav a{outline:none;}
+#prevLink, #nextLink{width:49%;height:100%;background-image:url(data:image/gif;base64,AAAA);display:block;}
+#prevLink{left:0;float:left;}
+#nextLink{right:0;float:right;}
+#prevLink:hover, #prevLink:visited:hover{background:url(../images/prevlabel.gif) left 15% no-repeat;}
+#nextLink:hover, #nextLink:visited:hover{background:url(../images/nextlabel.gif) right 15% no-repeat;}
+#imageDataContainer{font:10px Verdana, Helvetica, sans-serif;background-color:#fff;margin:0 auto;line-height:1.4em;overflow:auto;width:100%;}
+#imageData{padding:0 10px;color:#666;}
+#imageData #imageDetails{width:70%;float:left;text-align:left;}
+#imageData #caption{font-weight:bold;}
+#imageData #numberDisplay{display:block;clear:left;padding-bottom:1.0em;}
+#imageData #bottomNavClose{width:66px;float:right;padding-bottom:0.7em;outline:none;}
+#overlay{position:absolute;top:0;left:0;z-index:90;width:100%;height:500px;background-color:#000;}
