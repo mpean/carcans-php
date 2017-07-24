@@ -1,6 +1,6 @@
 <?php
 $GLOBALS['lang']="fr";
-header('Content-Type: text/html; charset=ISO-8859-1'); // écrase l'entête utf-8 envoyé par php
+header('Content-Type: text/html; charset=ISO-8859-1'); // ecrase l'enetete utf-8 envoye par php
 ini_set( 'default_charset', 'ISO-8859-1' );
 ?>
 
@@ -11,13 +11,13 @@ ini_set( 'default_charset', 'ISO-8859-1' );
 	<title>Les Gourbets de Carcans Plage</title>
 	
 	<meta name="keywords" lang="fr"
-		content="Carcans,carcan,Carcans plage,vacances,vélo,tourisme,touriste,site,été,soleil,ete,mer,vin,vignobles,Bordeaux,bronzer,natation,nager,baigner,location,ocÃ©an,ocean,MÃ©doc,Medoc,Gironde,Atlantique,France,appartement,villa,maison,Aquitaine,surf,Bombannes, Lacanau, Lacano,forÃªt,foret,Landes,">
+		content="Carcans,carcan,Carcans plage,vacances,vï¿½lo,tourisme,touriste,site,ï¿½tï¿½,soleil,ete,mer,vin,vignobles,Bordeaux,bronzer,natation,nager,baigner,location,ocÃ©an,ocean,MÃ©doc,Medoc,Gironde,Atlantique,France,appartement,villa,maison,Aquitaine,surf,Bombannes, Lacanau, Lacano,forÃªt,foret,Landes,">
 	<meta name="keywords" lang="en"
 		content="Carcans,carcan,Carcans plage,site,bicycle,swimm,sun,sea,wine,Tourist,Bordeaux,summer,bike,location,ocean,MÃ©doc,Medoc,Gironde,Atlantic,France,holiday,beach,rent,appartment,flat,holiday home, house,Aquitaine,Aquitania,surf,Bombannes, Lacanau, Lacano,forest,Landes,">
 	<meta name="keywords" lang="de"
-		content="Carcans,carcan,Carcans plage,Ozean,FeWo,Médoc,Medoc,Gironde,braeunen,brÃ¤unen,Wein,tourist,Fremdverkehr,baden,sunbathe,schwimmen,France,Ferien,Urlaub,Vermietung,vermieten,Ferienwohnung,Ferienvermietung,Aquitaine,Atlantik,Aquitanien,Frankreich,surf,wellenreiten,Wald,Bombannes, Lacanau, Lacano,bosque,Landes,Fahrrad,">
+		content="Carcans,carcan,Carcans plage,Ozean,FeWo,Mï¿½doc,Medoc,Gironde,braeunen,brÃ¤unen,Wein,tourist,Fremdverkehr,baden,sunbathe,schwimmen,France,Ferien,Urlaub,Vermietung,vermieten,Ferienwohnung,Ferienvermietung,Aquitaine,Atlantik,Aquitanien,Frankreich,surf,wellenreiten,Wald,Bombannes, Lacanau, Lacano,bosque,Landes,Fahrrad,">
 		
-	<meta name=description lang="fr" content="Location de maisons de vacances à Carcans plage, Medoc, Gironde, France">
+	<meta name=description lang="fr" content="Location de maisons de vacances ï¿½ Carcans plage, Medoc, Gironde, France">
 	<meta name=description lang="en" content="Home holiday let in Carcans plage, Medoc, Gironde, France">
 	<meta name=description lang="de" content="Ferienhausvermietung in Carcans plage, Medoc, Gironde, Frankreich">
 		
@@ -25,7 +25,7 @@ ini_set( 'default_charset', 'ISO-8859-1' );
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 		
 	<meta http-equiv="Carcans plage ocean"
-	content="Location de maisons de vacances à Carcans plage, Médoc, Gironde, Atlantique, France - Ferienhaus vermietung in Carcans plage, medoc, Gironde, Atlantikkuste, Frankreich - Home holiday let in Carcans plage, Medoc, Gironde, Atlantic coast, France - Alquiler de un piso de vacacion en Carcans plage, Medoc, Gironde, Atlantico, Francia">
+	content="Location de maisons de vacances ï¿½ Carcans plage, Mï¿½doc, Gironde, Atlantique, France - Ferienhaus vermietung in Carcans plage, medoc, Gironde, Atlantikkuste, Frankreich - Home holiday let in Carcans plage, Medoc, Gironde, Atlantic coast, France - Alquiler de un piso de vacacion en Carcans plage, Medoc, Gironde, Atlantico, Francia">
 	
 	<meta name="reply-to" content="">
 	<meta name="category" content="holidays">
